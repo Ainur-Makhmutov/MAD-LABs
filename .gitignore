@@ -205,3 +205,6 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+Data/collection_events-000000000000.json
+Data/Dataset.csv
+Data/Dataset.csv
