@@ -10,7 +10,21 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Data\Dataset_500.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Data\Dataset_cleaned.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Dataset_final.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
