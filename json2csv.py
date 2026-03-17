@@ -3,9 +3,13 @@ import json
 
 # Читаем JSON lines файл
 data = []
-with open(r'Data\collection_events-000000000000.json', 'r') as f:
+with open(r'Data\instance_usage-000000000000.json', 'r') as f:
+    i = 1
     for line in f:
         line = line.strip()
+        i+= 1
+        if (i == 500): break
+
         if line:
             data.append(json.loads(line))
 
